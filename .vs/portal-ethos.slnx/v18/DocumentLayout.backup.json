@@ -1,0 +1,811 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\portal-ethos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\includes\\header.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:includes\\header.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\coberturas.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:coberturas.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\editar_cobertura.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:editar_cobertura.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\admin.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:admin.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\excluir_cobertura.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:excluir_cobertura.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\processa_cobertura.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:processa_cobertura.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\noticia.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:noticia.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\processa_comentario.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:processa_comentario.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\login_admin.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:login_admin.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\login.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:login.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\processa_categoria.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:processa_categoria.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\index.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\editar_noticia.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:editar_noticia.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\processa_post.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:processa_post.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\categoria.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:categoria.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\form_publicidade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:form_publicidade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\processa_ads.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:processa_ads.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\status_ad.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:status_ad.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\functions.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:functions.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\evento.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:evento.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\eventhos_calendario.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:eventhos_calendario.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\enviar_evento.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:enviar_evento.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\sobre.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sobre.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\redefinir_senha.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:redefinir_senha.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\esqueci_senha.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:esqueci_senha.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\painel_leitor.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:painel_leitor.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\detalhes_pauta.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:detalhes_pauta.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\ver_pautas.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ver_pautas.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\includes\\config_menu.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:includes\\config_menu.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\logout.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:logout.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\busca.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:busca.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\excluir_categoria.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:excluir_categoria.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\editar_ad.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:editar_ad.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\excluir_ad.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:excluir_ad.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\auth.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:auth.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\includes\\db.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:includes\\db.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\includes\\ads.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:includes\\ads.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\upload_editor.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:upload_editor.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\save_video.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:save_video.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\save_radio.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:save_radio.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\politica_privacidade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:politica_privacidade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\politica_cookies.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:politica_cookies.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\excluir_noticia.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:excluir_noticia.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\contato.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contato.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\portal-ethos\\includes\\footer.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:includes\\footer.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "politica_cookies.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\politica_cookies.php",
+              "RelativeDocumentMoniker": "politica_cookies.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\politica_cookies.php",
+              "RelativeToolTip": "politica_cookies.php",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwEYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-20T14:25:00.121Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "editar_cobertura.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\editar_cobertura.php",
+              "RelativeDocumentMoniker": "editar_cobertura.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\editar_cobertura.php",
+              "RelativeToolTip": "editar_cobertura.php",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAwwMkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-28T03:41:57.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "coberturas.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\coberturas.php",
+              "RelativeDocumentMoniker": "coberturas.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\coberturas.php",
+              "RelativeToolTip": "coberturas.php",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAE8AAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-28T03:33:57.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "excluir_cobertura.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\excluir_cobertura.php",
+              "RelativeDocumentMoniker": "excluir_cobertura.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\excluir_cobertura.php",
+              "RelativeToolTip": "excluir_cobertura.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-28T03:31:52.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "processa_cobertura.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\processa_cobertura.php",
+              "RelativeDocumentMoniker": "processa_cobertura.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\processa_cobertura.php",
+              "RelativeToolTip": "processa_cobertura.php",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAF4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-28T03:14:19.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "processa_comentario.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\processa_comentario.php",
+              "RelativeDocumentMoniker": "processa_comentario.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\processa_comentario.php",
+              "RelativeToolTip": "processa_comentario.php",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwCsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-27T20:52:42.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "noticia.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\noticia.php",
+              "RelativeDocumentMoniker": "noticia.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\noticia.php",
+              "RelativeToolTip": "noticia.php",
+              "ViewState": "AgIAAE4BAAAAAAAAAAAwwEUBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-17T22:54:14.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "header.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\includes\\header.php",
+              "RelativeDocumentMoniker": "includes\\header.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\includes\\header.php",
+              "RelativeToolTip": "includes\\header.php",
+              "ViewState": "AgIAACkCAAAAAAAAAAAwwFMCAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-19T03:58:26.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "login_admin.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\login_admin.php",
+              "RelativeDocumentMoniker": "login_admin.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\login_admin.php",
+              "RelativeToolTip": "login_admin.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-27T19:52:37.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "admin.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\admin.php",
+              "RelativeDocumentMoniker": "admin.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\admin.php",
+              "RelativeToolTip": "admin.php",
+              "ViewState": "AgIAAO4BAAAAAAAAAAAwwBACAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-17T21:46:08.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "index.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\index.php",
+              "RelativeDocumentMoniker": "index.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\index.php",
+              "RelativeToolTip": "index.php",
+              "ViewState": "AgIAALoAAAAAAAAAAAAwwCABAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-19T03:59:56.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "categoria.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\categoria.php",
+              "RelativeDocumentMoniker": "categoria.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\categoria.php",
+              "RelativeToolTip": "categoria.php",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAwwHoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-17T21:41:54.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "processa_post.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\processa_post.php",
+              "RelativeDocumentMoniker": "processa_post.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\processa_post.php",
+              "RelativeToolTip": "processa_post.php",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAEAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-17T22:10:53.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "processa_categoria.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\processa_categoria.php",
+              "RelativeDocumentMoniker": "processa_categoria.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\processa_categoria.php",
+              "RelativeToolTip": "processa_categoria.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-27T00:34:33.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "login.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\login.php",
+              "RelativeDocumentMoniker": "login.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\login.php",
+              "RelativeToolTip": "login.php",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAAANMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-23T14:00:52.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "form_publicidade.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\form_publicidade.php",
+              "RelativeDocumentMoniker": "form_publicidade.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\form_publicidade.php",
+              "RelativeToolTip": "form_publicidade.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-19T04:45:01.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "processa_ads.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\processa_ads.php",
+              "RelativeDocumentMoniker": "processa_ads.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\processa_ads.php",
+              "RelativeToolTip": "processa_ads.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-17T22:09:25.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "editar_noticia.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\editar_noticia.php",
+              "RelativeDocumentMoniker": "editar_noticia.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\editar_noticia.php",
+              "RelativeToolTip": "editar_noticia.php",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAwwJAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-19T02:45:46.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "status_ad.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\status_ad.php",
+              "RelativeDocumentMoniker": "status_ad.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\status_ad.php",
+              "RelativeToolTip": "status_ad.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-26T22:36:19.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "functions.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\functions.php",
+              "RelativeDocumentMoniker": "functions.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\functions.php",
+              "RelativeToolTip": "functions.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-17T22:15:56.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "evento.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\evento.php",
+              "RelativeDocumentMoniker": "evento.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\evento.php",
+              "RelativeToolTip": "evento.php",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAwwKkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-27T16:26:45.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "eventhos_calendario.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\eventhos_calendario.php",
+              "RelativeDocumentMoniker": "eventhos_calendario.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\eventhos_calendario.php",
+              "RelativeToolTip": "eventhos_calendario.php",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAwwHYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-27T15:33:13.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "enviar_evento.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\enviar_evento.php",
+              "RelativeDocumentMoniker": "enviar_evento.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\enviar_evento.php",
+              "RelativeToolTip": "enviar_evento.php",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAwwHQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-27T15:32:50.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "redefinir_senha.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\redefinir_senha.php",
+              "RelativeDocumentMoniker": "redefinir_senha.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\redefinir_senha.php",
+              "RelativeToolTip": "redefinir_senha.php",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAwwG8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-27T14:42:13.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "esqueci_senha.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\esqueci_senha.php",
+              "RelativeDocumentMoniker": "esqueci_senha.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\esqueci_senha.php",
+              "RelativeToolTip": "esqueci_senha.php",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwGEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-27T14:41:11.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "painel_leitor.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\painel_leitor.php",
+              "RelativeDocumentMoniker": "painel_leitor.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\painel_leitor.php",
+              "RelativeToolTip": "painel_leitor.php",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAAJcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-27T01:40:34.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "detalhes_pauta.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\detalhes_pauta.php",
+              "RelativeDocumentMoniker": "detalhes_pauta.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\detalhes_pauta.php",
+              "RelativeToolTip": "detalhes_pauta.php",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAwwHgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-27T13:39:16.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ver_pautas.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\ver_pautas.php",
+              "RelativeDocumentMoniker": "ver_pautas.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\ver_pautas.php",
+              "RelativeToolTip": "ver_pautas.php",
+              "ViewState": "AgIAADwAAAAAAAAAAAAwwGYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-27T01:54:48.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "sobre.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\sobre.php",
+              "RelativeDocumentMoniker": "sobre.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\sobre.php",
+              "RelativeToolTip": "sobre.php",
+              "ViewState": "AgIAALgAAAAAAAAAAAAwwOIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-19T04:20:28.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "excluir_categoria.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\excluir_categoria.php",
+              "RelativeDocumentMoniker": "excluir_categoria.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\excluir_categoria.php",
+              "RelativeToolTip": "excluir_categoria.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-27T00:34:49.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "logout.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\logout.php",
+              "RelativeDocumentMoniker": "logout.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\logout.php",
+              "RelativeToolTip": "logout.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-27T01:31:50.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "editar_ad.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\editar_ad.php",
+              "RelativeDocumentMoniker": "editar_ad.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\editar_ad.php",
+              "RelativeToolTip": "editar_ad.php",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwL8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-26T22:43:53.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "config_menu.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\includes\\config_menu.php",
+              "RelativeDocumentMoniker": "includes\\config_menu.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\includes\\config_menu.php",
+              "RelativeToolTip": "includes\\config_menu.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-27T01:59:11.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "upload_editor.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\upload_editor.php",
+              "RelativeDocumentMoniker": "upload_editor.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\upload_editor.php",
+              "RelativeToolTip": "upload_editor.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-19T03:00:52.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\css\\style.css",
+              "RelativeDocumentMoniker": "css\\style.css",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\css\\style.css",
+              "RelativeToolTip": "css\\style.css",
+              "ViewState": "AgIAAFwDAAAAAAAAAAAwwIYDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-17T22:46:27.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "busca.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\busca.php",
+              "RelativeDocumentMoniker": "busca.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\busca.php",
+              "RelativeToolTip": "busca.php",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABoAAAC4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-23T14:00:25.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "save_video.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\save_video.php",
+              "RelativeDocumentMoniker": "save_video.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\save_video.php",
+              "RelativeToolTip": "save_video.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-19T14:03:00.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "auth.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\auth.php",
+              "RelativeDocumentMoniker": "auth.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\auth.php",
+              "RelativeToolTip": "auth.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-23T14:01:08.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "excluir_ad.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\excluir_ad.php",
+              "RelativeDocumentMoniker": "excluir_ad.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\excluir_ad.php",
+              "RelativeToolTip": "excluir_ad.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-26T22:36:41.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "save_radio.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\save_radio.php",
+              "RelativeDocumentMoniker": "save_radio.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\save_radio.php",
+              "RelativeToolTip": "save_radio.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-17T22:13:07.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ads.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\includes\\ads.php",
+              "RelativeDocumentMoniker": "includes\\ads.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\includes\\ads.php",
+              "RelativeToolTip": "includes\\ads.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-20T16:30:22.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "db.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\includes\\db.php",
+              "RelativeDocumentMoniker": "includes\\db.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\includes\\db.php",
+              "RelativeToolTip": "includes\\db.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-19T17:24:47.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "politica_privacidade.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\politica_privacidade.php",
+              "RelativeDocumentMoniker": "politica_privacidade.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\politica_privacidade.php",
+              "RelativeToolTip": "politica_privacidade.php",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwEYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-20T14:24:41.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "excluir_noticia.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\excluir_noticia.php",
+              "RelativeDocumentMoniker": "excluir_noticia.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\excluir_noticia.php",
+              "RelativeToolTip": "excluir_noticia.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-19T02:36:56.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "contato.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\contato.php",
+              "RelativeDocumentMoniker": "contato.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\contato.php",
+              "RelativeToolTip": "contato.php",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAwwHQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-19T04:20:06.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "footer.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\portal-ethos\\includes\\footer.php",
+              "RelativeDocumentMoniker": "includes\\footer.php",
+              "ToolTip": "C:\\xampp\\htdocs\\portal-ethos\\includes\\footer.php",
+              "RelativeToolTip": "includes\\footer.php",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAwwK0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-03-19T04:01:02.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
