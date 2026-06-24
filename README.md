@@ -7,7 +7,7 @@ Repositório de demonstração contendo a estrutura de front-end e a arquitetura
 
 ### Acesso em Produção
 Você pode visualizar a aplicação em funcionamento através do link abaixo:
-[Acessar Portal Ethos]((https://revistaethos.net.br/index_oficial.php))
+[[Acessar Portal Ethos](https://revistaethos.net.br/index_oficial.php)]((https://revistaethos.net.br/index_oficial.php))
 
 ---
 
